@@ -6,7 +6,7 @@
 
 一个很简单的例子：打开记事本写下hello world，并保存。效果如下（由于是使用Xbox录制的，只能录制当前界面，实际上在电脑前是能看到操作过程的）：
 <video width="640" controls muted loop>
-  <source src="./demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
   你的浏览器不支持视频播放
 </video>
 
