@@ -4,6 +4,13 @@
 
 你可以输入简单的任务，一步一步观察AI在这个过程中是如何思考的，每个步骤是如何调用的，AI是如何操作电脑的，状态在各个节点之间是如何传递的……
 
+一个很简单的例子：打开记事本写下hello world，并保存。效果如下（由于是使用Xbox录制的，只能录制当前界面，实际上在电脑前是能看到操作过程的）：
+<video width="640" controls muted loop>
+  <source src="./demo.mp4" type="video/mp4">
+  你的浏览器不支持视频播放
+</video>
+
+
 相信这个简单的demo能让你深刻理解背后的原理，这一点也不难，开始动手学习吧！
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
