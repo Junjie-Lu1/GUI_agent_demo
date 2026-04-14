@@ -17,6 +17,10 @@
 
 </details>
 
+<div align="center">
+<video src="https://github.com/user-attachments/assets/9cb30d21-03c9-4a57-82d9-39c9cb12db0c" width="70%" controls muted loop></video>
+</div>
+
 
 相信这个简单的demo能让你深刻理解背后的原理，这一点也不难，开始动手学习吧！
 
